@@ -8,7 +8,7 @@ final cardColor = Color(0xFF022a5d);
 
 //************************** App base url **************************************
 
-const String base_url = "https://36ac-113-199-224-212.ngrok-free.app";
+const String base_url = "https://cd70-113-199-225-144.ngrok-free.app/";
 
 const String image_base_url = "$base_url/media/";
 //**************************** Token  ******************************************
@@ -24,7 +24,7 @@ final String layTravelerItineraryListHiveBoxName =
 int traveller_max_day = 0;
 int user_day_max_day = 0;
 
-//srid number geolocation
+//srid number geolocationx
 const int GEO_SRID = 4326;
 
 //***************************** polyline option for selected day ***************
